@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/library_sys.dir/src/main.c.o CMakeFiles/library_sys.dir/src/data.c.o CMakeFiles/library_sys.dir/src/store.c.o CMakeFiles/library_sys.dir/src/logic.c.o -o library_sys 
